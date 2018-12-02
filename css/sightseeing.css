@@ -1,0 +1,38 @@
+body {
+	position: relative;
+	margin: 0;
+	background: #daf1da;
+}
+
+div.frame {
+	margin: 0 auto;
+	margin-bottom: 2em;
+	width: 80%;
+}
+
+div.textImage img{
+	float: left;
+	margin-right: 2em;
+	width: 30em;
+	height: 20em;
+	box-shadow: .3em .3em 1em;
+}
+
+.clear {
+	clear: both;
+}
+
+.topLine {
+	display: block;
+	position: relative;
+	height: 2em;
+	background-color: #015249;
+	margin-top: -1em;
+}
+
+.bottomLine {
+	display: block;
+	height: .5em; width: 100%;
+	background-color: #57bc90;
+}
+

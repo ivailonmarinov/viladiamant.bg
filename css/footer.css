@@ -1,0 +1,31 @@
+footer {
+	box-sizing: border-box;
+	position: relative;
+	bottom: 0; left: 0;
+	background: #015249;
+	color: white;
+	height: 10vh; width: 100%;
+	z-index: 1;
+	text-align: center;
+	padding-top: 0.5em;
+	text-align: center;
+}
+
+footer a {
+	text-decoration: none;
+	text-align: center;
+}
+
+footer a:visited {
+	text-decoration: none;
+	text-align: center;
+}
+
+map a {
+	color: white;
+}
+
+address {
+	font-style: normal;
+	text-align: center;
+}

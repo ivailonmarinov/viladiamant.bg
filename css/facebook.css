@@ -1,0 +1,14 @@
+div.facebook{
+	box-sizing: border-box;
+	position: fixed;
+	margin-top: 4em;
+	margin-left: 0em; 
+	font-size: 2.1em;
+	color: white;
+	height: 1.2em;
+	width: 1.2em;
+	text-align: center;
+	padding: .1em;
+	border-radius: 100%;
+	background-color: rgba(30, 34, 247, 0.863);
+}

@@ -1,0 +1,41 @@
+body {
+	position: relative;
+	margin: 0;
+	background: #daf1da;
+}
+
+.wrapper_shipkovo {
+	display: block;
+	width: 95%;
+	margin: 2em 3em 2em 3em;
+}
+
+div#shipkovo img {
+	float: left;
+	height: 25em;
+}
+
+p {
+	text-align: justify;
+	padding-right: 2em;
+}
+
+div#shipkovo img {
+	margin-right: 2em;
+	/* padding-right: 2em; */
+	box-shadow: .3em .3em 1em;
+}
+
+.topLine {
+	display: block;
+	position: relative;
+	height: 2em;
+	background-color: #015249;
+	margin-top: -1em;
+}
+
+.bottomLine {
+	display: block;
+	height: .5em; width: 100%;
+	background-color: #57bc90;
+}
